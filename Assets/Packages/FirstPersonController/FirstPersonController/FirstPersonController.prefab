@@ -727,28 +727,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d7e93aca4be6fd040ac3037ca5304922, type: 3}
---- !u!1 &5381354 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 100010, guid: d7e93aca4be6fd040ac3037ca5304922, type: 3}
-  m_PrefabInstance: {fileID: 5478976}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2145045429
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5381354}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a3c1d17013c7d4283b49b6d766a31903, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isGunShoot: 1
-  gunShootFrequencySet: 0.1
-  range: 200
-  myCamera: {fileID: 4459864851310106426}
-  shootEffect: {fileID: 0}
 --- !u!4 &5603530 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400010, guid: d7e93aca4be6fd040ac3037ca5304922, type: 3}
